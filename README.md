@@ -4,8 +4,7 @@
 - [MANGO TESTNET BOT](#mango-testnet-bot)
   - [Table Of Contents](#table-of-contents)
   - [Prerequisite](#prerequisite)
-  - [Join My Telegram Channel](#join-my-telegram-channel)
-  - [Initverse Incentive Testnet Airdrop](#initverse-incentive-testnet-airdrop)
+  - [Register](#Register)
   - [BOT FEATURE](#bot-feature)
   - [Setup \& Configure BOT](#setup--configure-bot)
     - [Linux](#linux)
@@ -13,7 +12,6 @@
   - [Update Bot](#update-bot)
   - [IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)](#important-note-read-it-this-is-not-decoration)
   - [CONTRIBUTE](#contribute)
-  - [SUPPORT](#support)
 
 ## Prerequisite
 - Git
