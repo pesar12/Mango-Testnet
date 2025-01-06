@@ -18,7 +18,23 @@
 ## Prerequisite
 - Git
 - Node JS (v22)
+- Register with my invite code : ZbJll8
 
+# Register 
+
+Mango Testnet
+
+➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=ZbJll8)
+
+- Download Mango Wallet (https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd) (Extension)
+- Backup Phrase
+- Claim Faucet on your wallet extension
+- Go To [Web](https://task.testnet.mangonetwork.io/?invite=ZbJll8)
+- Complete Bind Social Media Accounts and JOIN NOW
+- Go to [Event Page](https://task.testnet.mangonetwork.io/events)
+- Complete Task on the Task List ( Swap , Bridge )
+- Login Daily
+- Done
 
 ## BOT FEATURE
 - Multi Account 
