@@ -19,32 +19,6 @@
 - Git
 - Node JS (v22)
 
-## Join My Telegram Channel
-```
-https://t.me/you_and_crypus                                   
-
-Anyway i create new telegram channel just for sharing bot or airdrop, join here
-[**https://t.me/you_and_crypus**](https://t.me/you_and_crypus).
-
-## Initverse Incentive Testnet Airdrop
-#New
-
-Mango Testnet 
-
-➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=ZbJll8)
-- Download Mango Wallet (https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd) (Extension)
-- Backup Phrase
-- Claim Faucet on your wallet extension
-- Go To [Web](https://task.testnet.mangonetwork.io/?invite=ZbJll8) 
-- Complete Bind Social Media Accounts and JOIN NOW
-- Go to [Event Page](https://task.testnet.mangonetwork.io/events)
-- Complete Task on the Task List ( Swap , Bridge )
-- Login Daily
-- Done
-
-Bot ? Maybe
-
-**LFG**
 
 ## BOT FEATURE
 - Multi Account 
