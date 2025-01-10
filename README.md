@@ -48,7 +48,7 @@ Mango Testnet
 ### Linux
 1. Clone project repo
    ```
-   git clone https://github.com/Crypus/mango-testnet-bot.git && cd mango-testnet-bot
+   git clone https://github.com/pesar12/mango-testnet-bot.git && cd mango-testnet-bot
    ```
 2. Run
    ```
